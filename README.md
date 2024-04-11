@@ -27,7 +27,7 @@ pnpm install
 2. Copy the environment file
 
 ```
-cp .env.example .env.local
+cp .env.local.example .env.local
 ```
 
 3. Run frontend
