@@ -4,11 +4,17 @@
 
 ## Quick Demo
 
-https://github.com/muhadel/node-react-auth-module/assets/32979588/a4582c70-236f-42c3-994e-55ae944432cf
+
+
+
+https://github.com/muhadel/news-feed/assets/32979588/ff8f292d-2173-4973-bddd-52e4b9d126f6
+
+
+
 
 ## Getting Started
 
-To run this application locally, ensure that you have Node.js and Docker installed on your machine.
+To run this application locally, ensure that you have Node.js installed on your machine.
 
 ### Frontend
 
