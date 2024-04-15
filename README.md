@@ -1,11 +1,16 @@
 # News feed Application
 
-**Frontend** - _React with Next.js and Tailwindcss and Typescript_
+## Technologies Used
+
+ - **_React_**: A JavaScript library for building user interfaces.
+ - **_Next.js_** : A React framework for server-side rendering, static site generation, and more.
+ - **_Tailwind CSS_** : A utility-first CSS framework for rapid UI development.
+ - **_TypeScript_**: A typed superset of JavaScript that compiles to plain JavaScript.
+
+
+
 
 ## Quick Demo
-
-
-
 
 https://github.com/muhadel/news-feed/assets/32979588/ff8f292d-2173-4973-bddd-52e4b9d126f6
 
