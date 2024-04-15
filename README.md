@@ -38,5 +38,5 @@ cp .env.local.example .env.local
 3. Run frontend
 
 ```
-pnpm  dev
+pnpm dev
 ```
